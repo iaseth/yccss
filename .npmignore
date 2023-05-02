@@ -1,0 +1,9 @@
+
+cache/
+src/
+logos/
+
+*.py
+Makefile
+
+companies.json
