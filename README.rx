@@ -1,0 +1,14 @@
+
+# YCCSS
+This repository contains CSS colors and fonts of Top 1000 YC companies.
+
+
+## Dev dependencies
+{{ devDependencyTable() }}
+
+
+## License
+{{ "LICENSE.md" | File }}
+
+
+{{ giveCredit() }}
